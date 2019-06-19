@@ -1,0 +1,9 @@
+.idea
+__pycache__
+
+*.bak
+*.log
+*.rdb
+*.pot
+.DS_Store
+*~
